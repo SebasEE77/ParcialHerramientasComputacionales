@@ -1,0 +1,13 @@
+1. Que tipo de errores se presentaron o se pueden presentar con su implementación al
+problema?
+
+R/ Probablemente se podrían confundir uno de los dos diccionarios con la lista de la cantidad de los productos, 
+ya que no lo implementamos todo en una sola lista. Realmente haciendo el código no tuvimos errores o dificultades, 
+dado que intentamos hacer de manera muy precisa el código con lo que se requería desde el inicio.
+
+
+2. Que estrategias podr´ıa usar para solucionar estos errores?
+
+R/ Tal vez con una matriz o un update () podría solucionar la parte de los diccionarios y 
+la lista para tomar todos los datos en una sola, 
+para que al fin y al cabo no sea un poco confuso el interpretarlo.
